@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Contato";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@if (this.ViewData.ContainsKey("Mensagem"))
+{
+    <p>@this.ViewData["Mensagem"]</p>
+}
+
+
+<address>
+    Empresa de TI<br />
+    Av. Dom Pedro, 201 98052-6399<br />
+    <abbr title="Phone">Telefone:</abbr>
+    (19) 99168-3512
+</address>
+
+<address>
+    <strong>Suporte:</strong>   <a href="mailto:support@empresati.com">support@empresati.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:marketing@empresati.com">marketing@empresati.com</a>
+</address>

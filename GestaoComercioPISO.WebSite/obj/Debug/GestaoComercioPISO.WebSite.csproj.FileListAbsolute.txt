@@ -1,0 +1,389 @@
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\ApplicationInsights.config
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.exe
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.exe.config
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.rsp
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.exe
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.rsp
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.AppContext.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.exe
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.exe.config
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.rsp
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\VBCSCompiler.exe
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.dll.config
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.pdb
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Antlr3.Runtime.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.SqlServer.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Web.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.ApplicationInsights.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Google.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Newtonsoft.Json.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Owin.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Helpers.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Mvc.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Optimization.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Razor.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Deployment.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Razor.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\WebGrease.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Helpers.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Mvc.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Optimization.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Razor.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Deployment.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Razor.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Antlr3.Runtime.pdb
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Newtonsoft.Json.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.SqlServer.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Google.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.ApplicationInsights.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Web.xml
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.dll
+c:\users\família carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.pdb
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Net.Http.Formatting.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.WebHost.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Net.Http.Formatting.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.WebHost.xml
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.exe.config
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Console.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Família Carvalho\documents\visual studio 2017\Projects\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.csprojResolveAssemblyReference.cache
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\ApplicationInsights.config
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.exe
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.exe.config
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.rsp
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.exe
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.exe.config
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.rsp
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.AppContext.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Collections.Immutable.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Console.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.Process.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.Compression.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.Pipes.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Reflection.Metadata.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.AccessControl.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Claims.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Principal.Windows.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Threading.Thread.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.ValueTuple.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XmlDocument.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XPath.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.exe
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.exe.config
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.rsp
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\VBCSCompiler.exe
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\VBCSCompiler.exe.config
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.dll.config
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.pdb
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Antlr3.Runtime.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.SqlServer.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Agent.Intercept.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.DependencyCollector.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Web.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.WindowsServer.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.ApplicationInsights.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Core.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Cookies.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Facebook.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Google.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.OAuth.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Twitter.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Web.Infrastructure.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Newtonsoft.Json.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Owin.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Diagnostics.DiagnosticSource.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Net.Http.Formatting.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Helpers.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.WebHost.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Mvc.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Optimization.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Razor.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Deployment.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Razor.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\WebGrease.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Antlr3.Runtime.pdb
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.DependencyCollector.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Web.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.WindowsServer.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.ApplicationInsights.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Cookies.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Facebook.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Google.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.OAuth.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Twitter.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Newtonsoft.Json.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Diagnostics.DiagnosticSource.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Net.Http.Formatting.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.WebHost.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Helpers.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Mvc.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Optimization.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Razor.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Deployment.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Razor.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.SqlServer.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Core.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.csprojResolveAssemblyReference.cache
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.dll
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.pdb
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.Migrations.CreateTable_Produto.resources
+I:\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.csproj.GenerateResource.Cache
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.csprojResolveAssemblyReference.cache
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.Migrations.CreateTable_Produto.resources
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.csproj.GenerateResource.Cache
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.pdb
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\ApplicationInsights.config
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.exe
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.exe.config
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csc.rsp
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.exe
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.exe.config
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\csi.rsp
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.AppContext.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Console.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.Compression.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Claims.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.ValueTuple.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.exe
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.exe.config
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\vbc.rsp
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.dll.config
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\GestaoComercioPISO.WebSite.pdb
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Antlr3.Runtime.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Web.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Newtonsoft.Json.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Owin.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Net.Http.Formatting.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Helpers.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.WebHost.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Mvc.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Optimization.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Razor.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\WebGrease.dll
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Antlr3.Runtime.pdb
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.Web.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Newtonsoft.Json.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Net.Http.Formatting.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Http.WebHost.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Helpers.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Mvc.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Optimization.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.Razor.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Família Carvalho\Documents\Visual Studio 2017\GestaoComercioPISOSolution\GestaoComercioPISO.WebSite\obj\Debug\GestaoComercioPISO.WebSite.Migrations.CreateTable_Clientes.resources
